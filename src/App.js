@@ -1,5 +1,9 @@
-import './App.css'
+import {Component} from 'react'
+
+import Tabs from './components/Tabs'
 import LanguageItem from './components/LanguageItem'
+
+import './App.css'
 
 const languageGreetingsList = [
   {
